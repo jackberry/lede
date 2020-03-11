@@ -149,6 +149,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Trojan=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Simple_obfs=y
           CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_Redsocks2=y
+          CONFIG_PACKAGE_luci-app-ssr-plus_INCLUDE_microsocks=y
           CONFIG_PACKAGE_luci-app-ssr-python-pro-server=y
           CONFIG_PACKAGE_luci-app-ssrserver-python=m
           CONFIG_PACKAGE_luci-app-ttyd=y
