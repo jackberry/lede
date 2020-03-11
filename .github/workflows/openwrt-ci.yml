@@ -135,6 +135,7 @@ jobs:
           #CONFIG_PACKAGE_luci-app-baidupcs-web=y
           #CONFIG_PACKAGE_luci-app-docker=y
           CONFIG_PACKAGE_luci-app-frpc=y
+          CONFIG_PACKAGE_luci-app-filetransfer=y
           CONFIG_PACKAGE_luci-app-kodexplorer=y
           CONFIG_PACKAGE_luci-app-minidlna=y
           CONFIG_PACKAGE_luci-app-openvpn=y
@@ -151,6 +152,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-python-pro-server=y
           CONFIG_PACKAGE_luci-app-ssrserver-python=m
           CONFIG_PACKAGE_luci-app-ttyd=y
+          CONFIG_PACKAGE_luci-app-usb-printer=y
           CONFIG_PACKAGE_luci-app-v2ray-server=y
           CONFIG_PACKAGE_luci-app-verysync=y
           CONFIG_PACKAGE_luci-app-webadmin=y
